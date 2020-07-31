@@ -1,2 +1,2 @@
 # lambda_product
-A lambda function:product
+An example of lambda function:product
